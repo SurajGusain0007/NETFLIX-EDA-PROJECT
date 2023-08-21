@@ -16,7 +16,7 @@ Deployed the Netflix EDA project using Streamlit, creating a user-friendly inter
 🔑 Key Takeaways 📚
 This project showcases the utilization of Kaggle data, data cleaning with pandas, visualizations with Plotly, and deployment using Streamlit. It offers a captivating journey into the world of Netflix, unraveling patterns and trends for data enthusiasts and streaming enthusiasts alike
 
-website link:https://netflix-eda.streamlit.app/'
+website link:https://netflix-eda-project.streamlit.app/
 
 Website interface:
 
